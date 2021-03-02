@@ -152,3 +152,6 @@ fabric.properties
 
 # Geckodriver
 .geckodriver.log
+
+# Other
+.OW_login.txt

@@ -1,2 +1,2 @@
-[OW_username]
-[OW_password]
+[OW username]
+[OW password]
