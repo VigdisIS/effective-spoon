@@ -154,6 +154,6 @@ fabric.properties
 .geckodriver.log
 
 # Other
-OW_login.txt
-referenter.txt
-Gsuite_login.txt
+.OW_login.txt
+.referenter.txt
+.Gsuite_login.txt
